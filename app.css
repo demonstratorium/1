@@ -1,0 +1,4 @@
+:root{
+    --icon-color : hsl(100,100%,10%%);
+}
+body{ color: var(--icon-color)}
